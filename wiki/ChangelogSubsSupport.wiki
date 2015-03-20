@@ -6,7 +6,7 @@
       * It allows very easy adjustments for videos for which was subtitles not made (recordings)
     * possibility to change subtitles delay by 200ms step (up/down arrow)
       * It is ment for fine tuning in case you find right subtitle by right/left action
-    * possibility to change subtitles fps in case video fps is different (blue button)
+    * possibility to change subtitles fps in case they were timed for different video fps (blue button)
 
 = v1.5.0 =
 == main ==
