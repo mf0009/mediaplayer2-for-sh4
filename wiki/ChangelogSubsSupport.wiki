@@ -3,11 +3,10 @@
   * improved precision of delay functions
   * added subtitles status screen (TV button in MP2 0.59)
     * possibility to change subtitles delay by skipping to previous/next subtitle (right/left arrow)
-      * this allows very easy adjustments for videos for which was subtitles not made (recordings)
+      * It allows very easy adjustments for videos for which was subtitles not made (recordings)
     * possibility to change subtitles delay by 200ms step (up/down arrow)
-      * this is ment for fine tuning in case you find right subtitle by right/left action
-    * possibility to change subtitles fps in case video fps is different (blue 
-button)
+      * It is ment for fine tuning in case you find right subtitle by right/left action
+    * possibility to change subtitles fps in case video fps is different (blue button)
 
 = v1.5.0 =
 == main ==
