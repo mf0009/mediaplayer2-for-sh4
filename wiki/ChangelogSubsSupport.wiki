@@ -23,14 +23,14 @@
     * embedded subtitles settings
     * dvb player settings
 
-  * SubsSupport downloader
+  * Subssupport downloader
     * added event now and event next title for suggestions
 
   * updated font selection routine
     * all fonts are now retrieved for selection from standard enigma2 fonts location - typically /usr/share/fonts directory
-    * removed SubsSupport local fonts directory for font selection
+    * removed Subssupport local fonts directory for font selection
     * removed Ubuntu fonts from package
-      * Openpli based images have nice alternative (LiberationSans fonts), which is for now default
+      * Openpli based images have nice alternative (Liberationsans fonts), which is for now default
 
   * External Subtitles Settings
     * removed "Subtitles Parsing/Rendering" option
