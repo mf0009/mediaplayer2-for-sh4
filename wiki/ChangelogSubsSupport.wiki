@@ -30,7 +30,7 @@
     * all fonts are now retrieved for selection from standard enigma2 fonts location - typically /usr/share/fonts directory
     * removed Subssupport local fonts directory for font selection
     * removed Ubuntu fonts from package
-      * Openpli based images have nice alternative (Liberationsans fonts), which is for now default
+      * Openpli based images have nice alternative (Liberationsans fonts), which is selected as default if available
 
   * External Subtitles Settings
     * removed "Subtitles Parsing/Rendering" option
