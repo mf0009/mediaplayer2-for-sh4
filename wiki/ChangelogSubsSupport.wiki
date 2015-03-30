@@ -26,7 +26,7 @@
   * Subssupport downloader
     * added event now and event next title for suggestions
 
-  * fixed timing when custom fps is provided
+  * fixed timing when custom subtitles fps is provided
 
   * updated font selection routine
     * all fonts are now retrieved for selection from standard enigma2 fonts location - typically /usr/share/fonts directory
