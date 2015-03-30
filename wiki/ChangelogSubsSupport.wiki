@@ -52,7 +52,7 @@
     * added Font type selection for every subtitle style (not tested)
 
 == search ==
- * SubsSearch screen
+ * Subssearch screen
    * fixed GS on cancelling choice dialog which is open when there are multiple subtitles available
    * don't show save "Next to video" option, when there is no video available
      * Subssupport DVB player
