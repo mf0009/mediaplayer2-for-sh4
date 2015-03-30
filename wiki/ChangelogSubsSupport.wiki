@@ -26,6 +26,8 @@
   * Subssupport downloader
     * added event now and event next title for suggestions
 
+  * fixed timing when custom fps is provided
+
   * updated font selection routine
     * all fonts are now retrieved for selection from standard enigma2 fonts location - typically /usr/share/fonts directory
     * removed Subssupport local fonts directory for font selection
@@ -48,6 +50,15 @@
 
   * Embedded Subtitles Settings (non-pli)
     * added Font type selection for every subtitle style (not tested)
+
+== search ==
+ * SubsSearch screen
+   * fixed GS on cancelling choice dialog which is open when there are multiple subtitles available
+   * don't show save "Next to video" option, when there is no video available
+     * Subssupport DVB player
+   * fix download error in Subssupport downloader/player when "Save to" option is set to "Next to video"
+ * added titlovi provider
+ * fixed subscene provider
 
 = v1.5.1 =
 == main ==
