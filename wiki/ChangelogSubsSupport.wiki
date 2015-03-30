@@ -1,6 +1,6 @@
 = v1.5.2 =
 == main ==
-  * added Subssupport DVB player - possibility to select and playback subtitle while watching DVB broadcast
+  * added Subssupport DVB player - possibility to select and playback subtitles while watching DVB broadcast
    * added in plugins menu
    * added in extensions menu (blue button)
    * possible auto sync subtitles to current event time (yellow button)
