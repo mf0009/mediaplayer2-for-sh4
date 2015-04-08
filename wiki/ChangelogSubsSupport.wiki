@@ -63,9 +63,9 @@
    * fixed some skin issues
    * added jumping between providers and search config (yellow/pageUp/pageDown) button
    * added "Save as (fallback)" option
-     * in case we have no filepath set and "Save as" is set to "video", "save as (fallback)" option is used to determine download location
+     * in case we have no filepath set and "Save as" is set to "video", "Save as (fallback)" option is used to determine download location
 
- * SearchParams screen
+ * Searchparams screen
    * cache suggestion dialogs
 
  * added titlovi provider
