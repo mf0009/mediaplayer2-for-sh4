@@ -80,5 +80,11 @@ opkg --force-depends install http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_
 ----
 == Dependencies ==
 *python-xmlrpc (mipsel)* [http://dl.bintray.com/mx3l/generic/python-xmlrpc_2.7.2-r7.17_mips32el.ipk download]
+{{{
+opkg install http://dl.bintray.com/mx3l/generic/python-xmlrpc_2.7.2-r7.17_mips32el.ipk
+}}}
 
 *python-difflib (mipsel)* [http://dl.bintray.com/mx3l/generic/python-difflib_2.7.3-r5.3.9_mips32el.ipk download]
+{{{
+opkg install http://dl.bintray.com/mx3l/generic/python-difflib_2.7.3-r5.3.9_mips32el.ipk
+}}}
