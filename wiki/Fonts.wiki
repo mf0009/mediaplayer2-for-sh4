@@ -5,4 +5,4 @@ Google is your friend, you can try combinations of keywords like [*free font ttf
 
   # Copy your fonts (*Truetype format - ttf*) to _/usr/share/fonts_
   # Restart Enigma2
-  # Now you can choose your fonts
+  # Choose your fonts
