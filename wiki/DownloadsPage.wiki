@@ -73,6 +73,9 @@
 ----
 == Fonts ==
 *ubuntu-sans* [http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_0.80-r1_all.ipk download]
+{{{
+opkg --force-depends install http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_0.80-r1_all.ipk
+}}}
 
 ----
 == Dependencies ==
