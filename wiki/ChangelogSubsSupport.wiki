@@ -57,8 +57,20 @@
    * don't show save "Next to video" option, when there is no video available
      * Subssupport DVB player
    * fix download error in Subssupport downloader/player when "Save to" option is set to "Next to video"
+   * keep the order of search langs
+
+ * Subssearch settings
+   * fixed some skin issues
+   * added jumping between providers and search config (yellow/pageUp/pageDown) button
+   * added "Save as (fallback)" option
+     * in case we have no filepath set and "Save as" is set to "video", "save as (fallback)" option is used to determine download location
+
+ * SearchParams screen
+   * cache suggestion dialogs
+
  * added titlovi provider
  * fixed subscene provider
+ * fixed podnapisi provider
 
 = v1.5.1 =
 == main ==
