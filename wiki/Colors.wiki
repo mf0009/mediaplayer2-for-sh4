@@ -1,5 +1,5 @@
 ==How to add colors==
-Custom colors are defined in _PLUGINS_PATH/Extensions/Mediaplayer2/subtitles/colors.txt_
+Custom colors are defined in _PLUGINS_PATH/Extensions/SubsSupport/colors.txt_
 
 ===Format of colors.txt===
 There are two columns *alias* and *rrggbb*
