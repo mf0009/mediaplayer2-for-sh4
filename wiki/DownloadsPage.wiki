@@ -73,6 +73,10 @@
 *subssupport v1.2.0* [http://dl.bintray.com/mx3l/generic/enigma2-plugin-extensions-subssupport_1.2.0_20140407_all.ipk download] [ChangelogSubsSupport changelog]
 
 ----
+== Fonts ==
+*ubuntu-sans* [http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_0.80-r1_all.ipk download]
+
+----
 == Dependencies ==
 *python-xmlrpc (mipsel)* [http://dl.bintray.com/mx3l/generic/python-xmlrpc_2.7.2-r7.17_mips32el.ipk download]
 
