@@ -68,6 +68,9 @@
  * Searchparams screen
    * cache suggestion dialogs
 
+ * History screen
+   * change "settings" button color from yellow to blue
+
  * added titlovi provider
  * fixed subscene provider
  * fixed podnapisi provider
