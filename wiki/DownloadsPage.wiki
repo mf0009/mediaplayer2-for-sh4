@@ -72,7 +72,7 @@
 
 ----
 == Fonts ==
-*ubuntu-sans* [http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_0.80-r1_all.ipk download]
+*ubuntu-sans* [http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_0.80-r1_all.ipk download] *(1.3 MB)*
 {{{
 opkg --force-depends install http://dl.bintray.com/mx3l/generic/ttf-ubuntu-sans_0.80-r1_all.ipk
 }}}
