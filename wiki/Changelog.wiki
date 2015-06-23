@@ -1,3 +1,8 @@
+= v0.60 =
+ * fixed servicemp3 cuesheet support for some images(BH)
+ * added possibility to show current/remaining time of played video on LCD display
+   * added "LCD on video playback" option in settings
+
 = v0.59 =
  * removed subtitles sync function(TV button)
  * added subtitles status function(TV button)
